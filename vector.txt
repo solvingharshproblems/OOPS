@@ -1,0 +1,9 @@
+Apple
+100
+10
+Banana
+50
+20
+Cherry
+200
+15
