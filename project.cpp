@@ -6,7 +6,7 @@
 #include<map>
 using namespace std;
 #define MIN_BALANCE 500 //defining a pre-processor to keep minimum balance as 500
-class InsufficientFunds{}; //this class is for defining if the user have infussificient funds 
+class InsufficientFunds{}; //exceptional handling class 
 class Account{ //class for the account stuff
     private:
         long accountNumber;
